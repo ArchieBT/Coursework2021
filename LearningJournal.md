@@ -1,5 +1,5 @@
 # Learning Journal
 
-_29/09/2020_
+29/09/20
 
 I have learnt a lot about github and its capabilities for helping me keep my work organised and updated along the course. 
